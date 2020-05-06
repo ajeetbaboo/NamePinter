@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D06D-6E49
+
+ Directory of C:\Users\Ajeet kumar\Desktop\javaTest\NamePinter
+
+05/06/2020  06:02 PM    <DIR>          .
+05/06/2020  06:02 PM    <DIR>          ..
+05/06/2020  05:26 PM               301 .gitignore
+05/06/2020  04:16 PM               620 NamePrinter.class
+05/06/2020  04:15 PM               168 NamePrinter.java
+05/06/2020  06:02 PM                 0 readtest.txt
+               4 File(s)          1,089 bytes
+               2 Dir(s)  24,249,606,144 bytes free
